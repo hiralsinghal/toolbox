@@ -137,7 +137,13 @@ export default [
     icon: 'event-code',
     items: [
       {
-        
+       name: 'PHANTOM',
+        description: 'Make projects. Win free prizes. Fly to an escape room hackathon in Philadelphia',
+        img: 'https://phantom.hackclub.com/favicon.svg',
+        background: '#0a0a0c',
+        external: true,
+        url: 'https://phantom.hackclub.com/?utm_source=toolbox',
+        fancy: true 
       },
       
     ]
